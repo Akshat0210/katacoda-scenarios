@@ -19,7 +19,7 @@
       "host01": [
         {
           "file": "*",
-          "target": "/home/scrapbook/"
+          "target": "/root"
 		  
         }
       ]
