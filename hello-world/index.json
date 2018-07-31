@@ -19,7 +19,7 @@
       "client": [
         {
           "file": "ddev-seed/*",
-          "target": "/home/scrapbook/",
+          "target": "/home/scrapbook/"
 		  
         }
       ]
