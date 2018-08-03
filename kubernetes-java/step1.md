@@ -5,4 +5,4 @@ This is your first step. Check the version of the Docker and Kubernetes.
 
 `docker version`{{execute}}
 
-`kubectl version` {{execute}}
+` kubectl version ` {{execute}}

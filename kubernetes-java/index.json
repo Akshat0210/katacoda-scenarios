@@ -16,10 +16,24 @@
       "text": "finish.md"
     },
 	"assets": {
+	  "client": [
+        {
+          "file": "dashboard.yaml",
+          "target": "~/"
+		  
+        }
+      ],	
       "host01": [
         {
-          "file": "*",
-          "target": "/root"
+          "file": "dashboard.yaml",
+          "target": "~/"
+		  
+        }
+      ],
+	  "master": [
+        {
+          "file": "dashboard.yaml",
+          "target": "~/"
 		  
         }
       ]
