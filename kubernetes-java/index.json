@@ -22,20 +22,6 @@
           "target": "~/"
 		  
         }
-      ],	
-      "host01": [
-        {
-          "file": "dashboard.yaml",
-          "target": "~/"
-		  
-        }
-      ],
-	  "master": [
-        {
-          "file": "dashboard.yaml",
-          "target": "~/"
-		  
-        }
       ]
     }
   },
