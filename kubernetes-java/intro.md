@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+This is course provide walk through for the Kubernetes cluster.

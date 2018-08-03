@@ -1,7 +1,8 @@
-This is your first step.
+This is your first step. Check the version of the Docker and Kubernetes.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
 
-`echo 'Hello World'`{{execute}}
+`docker version`{{execute}}
+
+`kubectl version` {{execute}}
