@@ -6,7 +6,8 @@
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
-      "text": "step1.md"
+      "text": "step1.md",
+	  "code": "version.sh"
     }],
     "intro": {
       "text": "intro.md",
@@ -16,13 +17,7 @@
       "text": "finish.md"
     },
 	"assets": {
-	  "host01": [
-        {
-          "file": "dashboard.yaml",
-          "target": "~/"
-		  
-        }
-      ]
+	  
     }
   },
   "environment": {
