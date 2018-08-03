@@ -16,13 +16,14 @@
       "text": "finish.md"
     },
 	"assets": {
-	  "master": [
+	  "client": [
         {
           "file": "dashboard.yaml",
           "target": "~/"
 		  
         }
       ]
+      
     }
   },
   "environment": {
