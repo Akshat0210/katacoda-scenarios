@@ -16,7 +16,7 @@
       "text": "finish.md"
     },
 	"assets": {
-	  "client": [
+	  "master": [
         {
           "file": "dashboard.yaml",
           "target": "~/"
