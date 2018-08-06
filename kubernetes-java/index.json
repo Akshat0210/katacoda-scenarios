@@ -8,6 +8,10 @@
       "title": "Step 1 - Run Command",
       "text": "step1.md",
 	  "code": "version.sh"
+    },
+     {
+      "title": "Initialize the K8 cluster",
+      "text": "step2.md"	 
     }],
     "intro": {
       "text": "intro.md",
