@@ -6,4 +6,10 @@ Initialize the cluster with the Token
 `export KUBECONFIG=$HOME/admin.conf
 `{{execute}}
 
-Copy the join command and execute on the Node host
+Copy the join command and execute on the Node host.
+
+check nodes on the Master node
+`kubectl get nodes`{{execute}}
+
+At the moment nodes are not ready because Kubernetes Netework is not intialized.
+Check next step for the CNI installation. 
