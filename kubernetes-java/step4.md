@@ -1,5 +1,11 @@
 Kubernetes provides the base dashboard to visualize the cluster. 
 
+Clone the Java micro services
+
+`git clone https://github.com/Akshat0210/katacoda-scenarios.git`{{execute}}
+
+`/root/katacoda-scenarios/kubernetes-java`{{execute}}
+
 Let install K8 Dashboard
 `kubectl apply -f dashboard.yaml`{{execute}}
 
