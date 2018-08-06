@@ -12,6 +12,14 @@
      {
       "title": "Initialize the K8 cluster",
       "text": "step2.md"	 
+    },
+      {
+      "title": "Install WeaveNetwork",
+      "text": "step3.md"	 
+    },
+     {
+      "title": "Install Kubernetes dashboard",
+      "text": "step4.md"	 
     }],
     "intro": {
       "text": "intro.md",
