@@ -1,6 +1,6 @@
 This is your first step. Check the version of the Docker and Kubernetes.
 
-## Task
+## Task
 
 
 `docker version`{{execute}}
@@ -8,3 +8,6 @@ This is your first step. Check the version of the Docker and Kubernetes.
 Check K8 version
 
 `kubectl version`{{execute}}
+
+Check how many nodes are available
+`kubectl get nodes`{{execute}}
