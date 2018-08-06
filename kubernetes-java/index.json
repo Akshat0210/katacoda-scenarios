@@ -20,6 +20,10 @@
      {
       "title": "Install Kubernetes dashboard",
       "text": "step4.md"	 
+    },
+     {
+      "title": "Install Java micro services",
+      "text": "step5.md"	 
     }],
     "intro": {
       "text": "intro.md",
